@@ -7,10 +7,11 @@
 
 💼 Technologies I work with:
 
-Backend: PHP (Laravel, CodeIgniter, Custom PHP)
-Frontend: React.js, Vue.js, HTML/CSS, JavaScript
-Databases: MySQL, MongoDB
-APIs: RESTful APIs, Third-Party Integrations (Twilio, PayPal, Stripe)
+Backend: PHP (Laravel, CodeIgniter, Custom PHP).
+
+Frontend: React.js, Vue.js, HTML/CSS, JavaScript.
+Databases: MySQL, MongoDB.
+APIs: RESTful APIs, Third-Party Integrations (Twilio, PayPal, Stripe).
 💞️ Looking to collaborate on exciting web projects using Laravel, CodeIgniter, and modern frontend frameworks.
 
 📫 Reach me at: arslan06ahmed@gmail.com
