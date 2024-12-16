@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @arslanahmed0096
-- 👀 I’m interested in  web development in php with Codeignitor and & Laravel)
-- 🌱 I’m currently learning Laravel 8
-- 💞️ I’m looking to collaborate on ... project developed on php (CodeIgnitor & Laravel)
-- 📫 How to reach me ... arslan06ahmed@gmail.com
+👋 Hi, I’m Arslan Ahmed!
+💻 Full Stack Web Developer with 7 years of experience specializing in PHP, Laravel, CodeIgniter, and frontend technologies like React and Vue.js.
+
+👀 I’m passionate about building scalable, high-performance web applications and collaborating on innovative projects.
+
+🌱 Currently exploring the latest in Laravel 10, React.js, and MongoDB to keep up with modern web development trends.
+
+💼 Technologies I work with:
+
+Backend: PHP (Laravel, CodeIgniter, Custom PHP)
+Frontend: React.js, Vue.js, HTML/CSS, JavaScript
+Databases: MySQL, MongoDB
+APIs: RESTful APIs, Third-Party Integrations (Twilio, PayPal, Stripe)
+💞️ Looking to collaborate on exciting web projects using Laravel, CodeIgniter, and modern frontend frameworks.
+
+📫 Reach me at: arslan06ahmed@gmail.com
 
 <!---
 arslanahmed0096/arslanahmed0096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
