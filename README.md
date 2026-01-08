@@ -1,5 +1,5 @@
 👋 Hi, I’m Arslan Ahmed!
-💻 Full Stack Web Developer with 7 years of experience specializing in PHP, Laravel, CodeIgniter, and frontend technologies like React and Vue.js.
+💻 Full Stack Web Developer with 10 years of experience specializing in PHP, Laravel, CodeIgniter, and frontend technologies like React and Vue.js.
 
 👀 I’m passionate about building scalable, high-performance web applications and collaborating on innovative projects.
 
